@@ -2,8 +2,8 @@
 
 # Awesome books with ES6.
 
-> Hello! I am a software developer! I can help you build a product, feature or website. Tak a look of my works.
-If you like what you see and have a project you need coded, don’t hesitate and contact me.
+> Hello!
+Awesome books is a single page website that allows you to add or remove books to create a list or book colleccion. Re-creating this website you will learn how to give some functionality to your sections and make your website more user-interactive. Apart from creating and display a list you will learn how to set and get items from local storage and how to use an external package like luxom to display the current date.
 
 
 ## Built With
@@ -11,6 +11,15 @@ If you like what you see and have a project you need coded, don’t hesitate and
 - HTML
 - CSS
 - JavaScript
+
+## Getting Started
+
+Setting up this project locally:
+On your terminal:
+1- Clone this repository to your computer: git clone git@github.com:emiliazm/awesomebooks-es6.git.
+2- Open the project on your code editor: "cd awesomebooks-es6" and "code ."
+3- Install npm package: npm install.
+
 
 ## Live Demo (if available)
 
@@ -21,7 +30,7 @@ If you like what you see and have a project you need coded, don’t hesitate and
 ### Prerequisites
 
 Re-create your Awesome books app following the rules:
--Use ES6 syntax.
+- Use ES6 syntax.
 - Divide your code into modules. Save each module in a separate file in the modules dir. Import modules in the index.js file. For this exercise - the more modules the better!
 - Keep all funcionalities of the app without errors.
 - Refactor your methods and functions to arrow functions.
